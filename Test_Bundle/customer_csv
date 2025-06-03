@@ -1,0 +1,12 @@
+customer_id,name,age,gender,location,purchase_amount
+1,Alice Johnson,29,Female,New York,120.5
+2,Bob Smith,35,Male,Los Angeles,340.0
+3,Carol Lee,22,Female,Chicago,89.99
+4,David Kim,41,Male,Houston,230.75
+5,Eva Brown,31,Female,Phoenix,310.8
+6,Frank Moore,28,Male,Philadelphia,150.25
+7,Grace Clark,45,Female,San Antonio,560.0
+8,Hank Miller,38,Male,San Diego,275.4
+9,Ivy Wilson,27,Female,Dallas,195.6
+10,Jack Davis,33,Male,San Jose,410.1
+
